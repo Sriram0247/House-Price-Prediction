@@ -1,5 +1,5 @@
 ## Objective
-The purpose of this project is to predict the sale price of each house in the test set. The main evaluation metric is the Root-Mean-Squares-Error (RMSE) between the logarithm of predicted value and the logarithm of observed sale price.
+The purpose of this project is to predict the sale price of each house in the test set. The main evaluation metric is the Root-Mean-Square-Error (RMSE) between the logarithm of predicted value and the logarithm of observed sale price.
 
 ### Methods used
 * Inferential statistics
