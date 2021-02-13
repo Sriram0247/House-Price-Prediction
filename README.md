@@ -8,7 +8,7 @@ The purpose of this project is to predict the sale price of each house in the te
 * Predictive Modelling
 
 ### Technologies
-* Python
+* Python, Jupyter
 
 ## Project Description
 * The dataset used for this project is the Ames Housing Dataset with 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa.
